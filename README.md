@@ -1,2 +1,2 @@
-# Todo-Loan-Calculator-in-JavaScriptt
+# Todo-Loan-Calculator-in-JavaScript
 Simple Dom manipulation and calculations using JavaScript
